@@ -1,0 +1,15 @@
+{
+  "San pham":
+          [
+            {
+              "MaSP": "SP_001", "TenSP": "DELL Inspiron 14NR", "SoLuong": 100, "DonGia": 1500000, "ThanhTiern": 15000000,
+              "Hinh": "https://duythanhcse.wordpress.com/h1.png"
+            },
+            {
+              "MaSP": "SP_002", "TenSP": "DELL Inspiron 15NR", "SoLuong": 50, "DonGia": 2000000, "ThanhTiern": 10000000,
+              "Hinh": "https://duythanhcse.wordpress.com/h2.png"
+            }
+          ],
+          "MaDM": "DM01",
+          "TenDM": "May Tinh"
+}
